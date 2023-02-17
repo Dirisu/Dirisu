@@ -1,9 +1,9 @@
 * Hi there 👋, I'm Dirisu Marvellous 
-* 👀 I'm interested in iOS Mobile Development, AI and Cloud Development
-* 🌱 I’m currently learning iOS development using swift, UIKit.
-* 👯 I’m looking to collaborate on beginners level iOS app development
-* 📫 How to reach me: dirisumarvellous94@gmail.com
-* ⚡ Fun fact: I play video games when I'm not coding, I love to hike and enjoy karaoke
+* 👀 I'm interested in Business Process Automation and Robotics
+* 🌱 I’m currently learning FrontEnd web development.
+* 👯 I’m looking to collaborate on beginners level frontend development
+* 📫 How to reach me: dirisumarvellous4@gmail.com
+* ⚡ Fun fact: I play video games most weekends and i like to go to the cinema
 
 
 <!--

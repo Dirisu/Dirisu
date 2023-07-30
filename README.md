@@ -1,9 +1,9 @@
 * Hi there 👋, I'm Dirisu Marvellous 
 * 👀 I'm interested in Business Process Automation and Robotics
-* 🌱 I’m currently learning FrontEnd web development.
-* 👯 I’m looking to collaborate on beginners level frontend development
+* 🌱 I’m currently learning native iOS development.
+* 👯 I’m looking to collaborate on beginners level SwiftUI development
 * 📫 How to reach me: dirisumarvellous4@gmail.com
-* ⚡ Fun fact: I play video games most weekends and i like to go to the cinema
+* ⚡ Fun fact: I enjoy video games and I like to go to the cinema
 
 
 <!--
